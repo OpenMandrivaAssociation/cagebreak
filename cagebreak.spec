@@ -4,7 +4,7 @@ Release:        1
 Summary:	A tiling Wayland compositor
 Group:		Window Manager
 License:	MIT
-URL:		https://github.com/project-repo/cagebreak
+URL:		https://cagebreak.project-repo.co/
 Source0:	https://github.com/project-repo/cagebreak/archive/refs/tags/%{version}.tar.gz#/%{name}-%{version}.tar.gz
 
 BuildRequires:	pkgconfig(wlroots-0.20)
